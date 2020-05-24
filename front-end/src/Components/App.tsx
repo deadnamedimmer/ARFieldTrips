@@ -28,7 +28,7 @@ const App: React.FunctionComponent = () => {
     <div className="App">
       <AppBar position="static">
         <Toolbar>
-          <Typography variant="h6">Field Trip AR</Typography>
+          <Typography variant="h6">AR Field Trips</Typography>
         </Toolbar>
       </AppBar>
       <Box style={{ height: "80vh", marginLeft: "2.5%", marginRight: "2.5%" }}>
